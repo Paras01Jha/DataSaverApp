@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "92595286854",
+    "firebase_url": "https://datasaver-eda2c-default-rtdb.firebaseio.com",
+    "project_id": "datasaver-eda2c",
+    "storage_bucket": "datasaver-eda2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92595286854:android:820d5cf79ece4cd070ab47",
+        "android_client_info": {
+          "package_name": "com.card.datasaverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92595286854-i7o08cit4lok6at2veulr4dsdhs8gnsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaW63tPivB2i2RfaBxa31-pysQGbauR_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92595286854-i7o08cit4lok6at2veulr4dsdhs8gnsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

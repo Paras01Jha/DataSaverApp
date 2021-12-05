@@ -1,0 +1,54 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">DataSaverApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">My Wallet</string>
+    <string name="menu_slideshow">Tracker</string>
+    <string name="invite">Invite</string>
+
+    <string name="verifyPhone">Verify Phone Number</string>
+    <string name="createAccount">Create Account</string>
+    <string name="instruction">We will send you an OTP on this mobile number</string>
+    <string name="u_name">Enter Your Full Name</string>
+    <string name="referral">Enter Referral Code(Optional)</string>
+    <string name="sendOtp">Send OTP</string>
+    <string name="otpVerification">OTP VERIFICATION</string>
+    <string name="didnot">Did not you receive any code</string>
+    <string name="verify">VERIFY</string>
+    <string name="last24Hours">Last 24 Hours Used Time</string>
+    <string name="inviteAndRefer">Invite And Earn Unlimited Coins</string>
+    <string name="invite1">1. Get 20 coins instantly and 10% coins of every first friend when your friends join with your referral code.</string>
+    <string name="invite2">2. Your friends also get 10 coins on joining.</string>
+    <string name="invite3">3. Get 5% coins when your friends invite to other.</string>
+    <string name="referral_code">Your Referral Code</string>
+    <string name="tap">Tap Icons Below To Invite Friends</string>
+    <string name="Whatsapp">Whatsapp</string>
+    <string name="Facebook">Facebook</string>
+    <string name="Mail">Mail</string>
+    <string name="Instagram">Instagram</string>
+    <string name="More">More</string>
+    <string name="Total_Refund_Data">Total Refund Data</string>
+    <string name="Go_To_Wallet">Go To Wallet</string>
+    <string name="copyCode">Tab on code to copy to clipboard</string>
+    <string name="VERIFY">VERIFY</string>
+    <string name="Gender">Gender</string>
+    <string name="number_error">Please enter correct mobile number</string>
+    <string name="name_error">Please enter your name</string>
+    <string name="Personal_Details">Personal Details</string>
+    <string name="submit">SUBMIT</string>
+
+    <string name="open_app_usage_setting">Open Apps with usage access settings</string>
+    <string name="last_time_used">"Last time used: "</string>
+    <string name="time_span">"Time span: "</string>
+
+    <string name="display_order_text">Sort by:</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="already_exist_number">Phone Number Already Exist. Please Use Another Phone Number</string>
+
+</resources>
